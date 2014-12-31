@@ -1,8 +1,10 @@
 hexenbiest
 ==========
 
-HexenBiest Antenna Tracker Project:
+HexenBiest FPV Antenna Tracker Project
 
-This Arduino based design is ongoing. Currently the hardware is being designed. Expected ETA on hardware debug is Feb 2015. Code will follow.
+Dec-30-2014:
+Currently the hardware is being designed. PCB layout is complete and the board is being fab'd. Simple test code will be created after the hardware is complete. Next update will be posted after hardware testing is finished. Expected ETA is Feb 2015.
 
+- Thomas
 
